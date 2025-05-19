@@ -18,4 +18,4 @@ It interrupts the whole 2.4 GHz band! Everything that works on 2.4 GHz WiFi/
 
 ## 💬 Contact
 
-If you're interested in this project or have questions, feel free to **PM me on Facebook**.
+If you're interested in this project or have questions, feel free to PM me on Facebook.
